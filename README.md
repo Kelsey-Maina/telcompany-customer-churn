@@ -80,6 +80,8 @@ Based on the evaluation results of the KNN model, the conclusions are:
 
 ## Finding the most important features;
 
+![image](https://github.com/Kelsey-Maina/telcompany-customer-churn/assets/162282707/fcadcea9-83e5-41a2-8e03-527dc5ea9d61)
+
 The top features that influence the rate of customer churn (in order) are:
 
 - total day charge
@@ -97,6 +99,8 @@ In the context of predicting customer churn for a telecommunications company, it
 Moreover, other metrics like precision and F1 score,as shown above are imporatant as they ensure a balanced approach. Precision ensures that the customers i am targeting with retention strategies are actually likely to churn, and the F1-score provides a balance between precision and recall.
 
 ## ROC Curve analysis
+
+![image](https://github.com/Kelsey-Maina/telcompany-customer-churn/assets/162282707/ef84fc8d-a9da-42bf-b08a-0b26f33043f6)
 
 The best model with the highest AUC is the Decision Tree, as it is the curve at the top left corner of the plot. This curve represents the model with the highest True Positive Rate (TPR) and the lowest False Positive Rate (FPR), which corresponds to the highest AUC (Area Under the Curve) of 0.885
 
