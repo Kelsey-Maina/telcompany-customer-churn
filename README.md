@@ -4,11 +4,11 @@
 
 ### Overview;
 
-The core of modern communication is built of telecommunications businesses, which offer a variety of services like phone, data, internet, and video communication. As there is more digitalized development in the society, longevity in tech infrastructure is essential for smooth communication and economic stability. There are, however, major challenges in the telecommunications industry that require strategic solutions. One of the major issues is customer churn, where customers stop using a product or switch from one service provider to another. High churn rates impact revenue and customer satisfaction. A way to reduce churn is by enhancing customer service by, for example; improving service quality and personalizing services through data analytics. The metric of success of the model should be an accuracy score of 80%. In conclusion, Telecommunications firms can thrive in this developing setting by embracing innovation, making wise investments, and maintaining a high priority on customer satisfaction.
+Telecommunications businesses play a crucial role in modern communication, offering services like phone, data, internet, and video. Longevity in tech infrastructure is essential for economic stability. Challenges include customer churn, which impacts revenue and satisfaction. To reduce churn, enhance service quality and personalize through data analytics, with an accuracy score of 80%.
 
 ### Business Problem;
 
-I have been tasked by SyriaTel, a telecommunications company, to identify patterns and factors that will enable them to anticipate customer behavior and take proactive steps to reduce churn rates. For this analysis, I'm leveraging data from the SyriaTel dataset that contains data on customers' usage patterns and service information. As a result of the predictive analysis, the firm will be able to retain their clients. Overall, SyriaTel is looking to obtain predictive machine learning models that can predict whether customers are likely to churn or not.
+SyriaTel is utilizing data from the SyriaTel dataset to identify patterns and factors to anticipate customer behavior and reduce churn rates, aiming to retain clients through predictive machine learning models.
 
 ### Objectives;
 
